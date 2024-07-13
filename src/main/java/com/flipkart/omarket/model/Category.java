@@ -3,5 +3,5 @@ import lombok.Data;
 @Data
 public class Category extends BaseModel {
     private String name ;
-    private long id;
+    private String Description;
 }

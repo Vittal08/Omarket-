@@ -7,3 +7,5 @@ public class ExceptionDto {
     private String msg;
     private String Solution;
 }
+
+

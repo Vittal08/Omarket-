@@ -27,8 +27,11 @@ public class ProductController  {
         return res;
 
     }
-
+    @GetMapping("/all")
     public List<Product> getALlProducts() {
-        return null;
+        return ps.getALlProducts();
+
     }
+
+
 }

@@ -10,9 +10,10 @@ public class FakeStoreProductDto {
     private String category ;
     private String Description;
 
+}
 
     /*
-    {
+            {
                 id:1,
                 title:'...',
                 price:'...',
@@ -21,4 +22,3 @@ public class FakeStoreProductDto {
                 image:'...'
             }
      */
-}
